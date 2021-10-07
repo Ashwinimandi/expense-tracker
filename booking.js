@@ -26,7 +26,7 @@ window.addEventListener("DOMContentLoaded", () => {
      .catch((err) => {
          console.log(err);
      })
- })
+ })  
 function showNewUserOnScreen(user){
 
 document.getElementById('mail').value = '';
